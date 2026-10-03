@@ -1,5 +1,5 @@
 # SIH26162-Industrial-Fire-AI
-1. Project Title : 
+1. Project Title :
 AI-Based Detection and Classification of Industrial Fires and Persistent Thermal Sources Using Satellite Data
 
 2. Problem :
